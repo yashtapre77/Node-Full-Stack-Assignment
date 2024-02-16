@@ -1,0 +1,11 @@
+{
+  "name": "node-full-stack-assignment",
+  "version": "1.0.0",
+  "description": "Assignment 1 Honors ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Tapre",
+  "license": "ISC"
+}
